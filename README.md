@@ -13,10 +13,7 @@ AI resources repository
 | Copilot                                  | Microsoft 365 workflow, document/data work             | Work outside Microsoft ecosystem   |
 | Gemini                                   | Google ecosystem, real-time info, multimodal           | Deep analytical reasoning          |
 
-### GenAI main risks
+### Prompts structure
 
-```text
-1. Hallucinations - AI confidently generates information that is simply wrong or completely made up.
-2. Bias - reproduce biases from training data.
-3. Knowledge cutoffs - trained on data up to a specific date.
-```
+| ROLE | CONTEXT | TAKS | FORMAT | TONE |
+| ---- | ------- | ---- | ------ | ---- |
